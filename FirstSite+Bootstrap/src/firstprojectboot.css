@@ -1,0 +1,63 @@
+.header{
+	margin-top: 100px;
+	font-size: 20px;
+	line-height: 1.7;
+}
+
+.header strong{
+display: block;
+font-weight: 900;
+}
+.midsection{
+	margin-top: 80px;
+}
+.video{
+	margin-bottom: 20px;
+}
+.form{
+	border:5px solid #3c3cdd;
+	padding: 35px 20px;
+}
+.form p{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.form button,input{
+	margin-top: 14px;
+}
+.form button{
+	background-color: #3c3cdd;
+	border:none;
+}
+.downsection h2{
+	font-size: 20px;
+	font-weight: 700;
+}
+.feauture{
+	margin-top: 60px;
+}
+.feauture p{
+	font-size: 16px;
+	font-weight: 700;
+	margin-top: 20px;
+}
+.downsection button{
+	margin-top: 70px;
+	background-color: #3c3cdd;
+	border:none;
+	width:290px;
+}
+.clients img{
+	padding:5px;
+	width:250px;
+		margin-bottom: 20px;
+}
+.clients{
+	margin-top: 120px;
+}
+.clients h2{
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 60px;
+}
+
